@@ -29,14 +29,13 @@ This project is designed to help students and job seekers prepare for interviews
 
 📂 Project Structure
 
-text
+```text
 AI-Interview-Preparation-app/
 │
 ├── app3.py
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
 ⚙️ Installation
 1️⃣ Clone the repository
 
