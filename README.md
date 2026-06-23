@@ -2,32 +2,26 @@
 
 Welcome to the **AI Interview Preparation System**! 🚀
 
-This project is designed to help students and job seekers prepare for interviews through an interactive AI-powered platform. Users can practice interview questions, receive feedback, and improve their confidence before facing real interviews.
+This project helps students and job seekers prepare for interviews through an interactive AI-powered platform. Users can practice interview questions, receive AI-generated feedback, and improve their interview skills.
 
----
 ✨ Features
 
-✅ Interactive interview practice
-
-✅ AI-generated feedback and suggestions
-
-✅ User-friendly Streamlit interface
-
-✅ Performance evaluation
-
-✅ Personalized learning experience
-
+* 🤖 AI-powered interview assistance
+* 💬 Interactive interview question practice
+* 📊 Performance evaluation
+* 🎯 Personalized feedback
+* 🖥️ Simple and user-friendly Streamlit interface
 
 🛠️ Technologies Used
 
-🐍 Python
-🎨 Streamlit
-🤖 Google Gemini API
-📊 Pandas
-📈 Matplotlib
-🌳 Scikit-learn
+* 🐍 Python
+* 🎨 Streamlit
+* 🤖 Google Gemini API
+* 📊 Pandas
+* 📈 Matplotlib
+* 🌳 Scikit-learn
 
-📂 Project Structure
+## 📂 Project Structure
 
 ```text
 AI-Interview-Preparation-app/
@@ -36,69 +30,57 @@ AI-Interview-Preparation-app/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
+
 ⚙️ Installation
+
 1️⃣ Clone the repository
 
-bash
+```bash
 git clone https://github.com/bishakhamanna2-pixel/AI-Interview-Preparation-app.git
+```
 
 2️⃣ Move into the project folder
-bash
+
+```bash
 cd AI-Interview-Preparation-app
+```
 
+3️⃣ Install dependencies
 
-3️⃣ Create a virtual environment
-bash
-python -m venv venv
-
-4️⃣ Activate the virtual environment
-
-**Windows**
-bash
-venv\Scripts\activate
-
-
-5️⃣ Install dependencies
-
-bash
+```bash
 pip install -r requirements.txt
-
-
----
+```
 
 ▶️ Run the Application
-bash
+
+```bash
 streamlit run app3.py
+```
 
+After running the command, the application will open automatically in your web browser. 🌐
 
-The application will open automatically in your browser. 🌐
+🎯 Project Objective
 
-🎯 Purpose of the Project
+The main objective of this project is to help users:
 
-The goal of this project is to make interview preparation more effective and engaging using Artificial Intelligence. It helps users:
+* 💼 Prepare for job interviews
+* 🗣️ Improve communication skills
+* 💡 Learn from AI-generated feedback
+* 🚀 Build confidence for real interviews
 
-* Improve communication skills 🗣️
-* Practice interview scenarios 💼
-* Build confidence 💪
-* Learn from AI-generated feedback 🤖
-
-
-🚀 Future Enhancements
+🔮 Future Improvements
 
 * 📄 Resume Analysis
-* 🎤 Voice-based Mock Interviews
-* 📊 Advanced Performance Dashboard
+* 🎤 Voice-Based Mock Interviews
+* 📊 Advanced Analytics Dashboard
 * 🌍 Multiple Interview Categories
-* 🏆 Progress Tracking System
-
----
+* 🏆 User Progress Tracking
 
 👩‍💻 Author
 
-Bishakha Manna
+**Bishakha Manna**
 
----
+📜 License
 
-📚 Note
-
-This project was developed for learning, educational, and portfolio purposes.
+This project is created for educational and learning purposes.
