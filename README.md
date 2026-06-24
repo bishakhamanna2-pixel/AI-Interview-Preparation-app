@@ -55,7 +55,7 @@ pip install -r requirements.txt
 ## ▶️ Run the Application
 
 ```bash
-streamlit run app3.py
+python -m streamlit run app3.py
 ```
 
 After running the command, the application will open automatically in your web browser. 🌐
