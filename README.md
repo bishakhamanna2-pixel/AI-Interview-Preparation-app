@@ -65,14 +65,12 @@ After running the command, the application will open automatically in your web b
 The main objective of this project is to help users:
 
 * 💼 Prepare for job interviews
-* 🗣️ Improve communication skills
 * 💡 Learn from AI-generated feedback
 * 🚀 Build confidence for real interviews
 
 ## 🔮 Future Improvements
 
-* 📄 Resume Analysis
-* 🎤 Voice-Based Mock Interviews
+* 📄 Profile Analysis
 * 📊 Advanced Analytics Dashboard
 * 🌍 Multiple Interview Categories
 * 🏆 User Progress Tracking
